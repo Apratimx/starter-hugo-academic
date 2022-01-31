@@ -26,6 +26,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon_pack: fas
+    icon: CV
+    link: uploads/demo_resume.pdf
 organizations:
   - name: Delhi Technological University
 education:
