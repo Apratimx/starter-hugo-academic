@@ -30,7 +30,7 @@ social:
       header: false
     icon_pack: ai
     icon: CV
-    link: uploads/demo_resume.pdf
+    link: google.com
 organizations:
   - name: Delhi Technological University
 education:
