@@ -41,9 +41,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am a student researcher working with Samsung. My interests include Computational Linguistics, Human-Computer Interaction, Natural Language Processing, Computational Social Sciences. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm currently pursuing my undergraduation in Computer Engineering from Delhi Technological University. In the past three years, I've worked as a Data Scientist at a social media start-up Polemix NYC setting up pipelines and establishing their data department. After which, I moved to Samsung working as an ML researcher working with Samsung R&D Delhi in working towards novel solutions for problem statements provided by Samsung. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
