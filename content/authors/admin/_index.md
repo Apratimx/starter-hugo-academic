@@ -29,7 +29,7 @@ social:
   - display:
       header: false
     icon_pack: ai
-    icon: CV
+    icon: cv
     link: google.com
 organizations:
   - name: Delhi Technological University
