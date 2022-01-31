@@ -29,7 +29,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    icon: CV
+    icon: cv
     link: uploads/demo_resume.pdf
 organizations:
   - name: Delhi Technological University
