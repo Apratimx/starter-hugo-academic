@@ -35,6 +35,4 @@ highlight_name: true
 ---
 I am a student researcher working with Samsung. My interests include Computational Linguistics, Human-Computer Interaction, Natural Language Processing, Object Detection, Computational Social Sciences. 
 
-I'm currently pursuing my undergraduation in Computer Engineering from Delhi Technological University. In the past three years, I've worked as a Data Scientist at a social media start-up Polemix NYC setting up pipelines and establishing their data department. After which, I moved to Samsung working as an ML researcher working with Samsung R&D Delhi in working towards novel solutions for problem statements provided by Samsung. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I'm currently pursuing my undergraduation in Computer Engineering from Delhi Technological University. In the past three years, I've worked as a Data Scientist at a social media start-up Polemix NYC setting up pipelines and establishing their data department. After which, I moved to Samsung working as an ML researcher working with Samsung R&D Delhi in working towards novel solutions for problem statements provided by Samsung.
